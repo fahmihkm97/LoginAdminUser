@@ -10,8 +10,8 @@
             <p style="color: #6b7280; margin: 5px 0 0 0;">Kelola data mahasiswa fakultas.</p>
         </div>
         <a href="{{ route('mahasiswas.create') }}" 
-           style="background-color: #000000; color: #ffffff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 14px; display: inline-block; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-           + Tambah Mahasiswa
+            style="background-color: #000000; color: #ffffff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 14px; display: inline-block; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+            + Tambah Mahasiswa
         </a>
     </div>
 
